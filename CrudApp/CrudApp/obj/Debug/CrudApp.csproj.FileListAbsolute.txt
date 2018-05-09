@@ -1,0 +1,9 @@
+C:\Users\Boss\Desktop\Everything\Ranken\AsP\CrudLab\CrudApp\CrudApp\bin\CrudApp.dll.config
+C:\Users\Boss\Desktop\Everything\Ranken\AsP\CrudLab\CrudApp\CrudApp\bin\CrudApp.dll
+C:\Users\Boss\Desktop\Everything\Ranken\AsP\CrudLab\CrudApp\CrudApp\bin\CrudApp.pdb
+C:\Users\Boss\Desktop\Everything\Ranken\AsP\CrudLab\CrudApp\CrudApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Boss\Desktop\Everything\Ranken\AsP\CrudLab\CrudApp\CrudApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Boss\Desktop\Everything\Ranken\AsP\CrudLab\CrudApp\CrudApp\obj\Debug\CrudApp.csprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\Everything\Ranken\AsP\CrudLab\CrudApp\CrudApp\obj\Debug\CrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\Everything\Ranken\AsP\CrudLab\CrudApp\CrudApp\obj\Debug\CrudApp.dll
+C:\Users\Boss\Desktop\Everything\Ranken\AsP\CrudLab\CrudApp\CrudApp\obj\Debug\CrudApp.pdb
